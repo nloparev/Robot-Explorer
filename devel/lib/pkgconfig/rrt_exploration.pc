@@ -1,0 +1,8 @@
+prefix=/home/parallels/Robot-Explorer/devel
+
+Name: rrt_exploration
+Description: Description of rrt_exploration
+Version: 1.0.0
+Cflags: -I/home/parallels/Robot-Explorer/devel/include
+Libs: -L/home/parallels/Robot-Explorer/devel/lib 
+Requires: message_runtime

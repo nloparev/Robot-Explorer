@@ -1,0 +1,8 @@
+prefix=/home/parallels/Robot-Explorer/devel
+
+Name: driver_base
+Description: Description of driver_base
+Version: 1.6.8
+Cflags: -I/home/parallels/Robot-Explorer/devel/include -I/home/parallels/Robot-Explorer/src/driver_common/driver_base/include -I/usr/include
+Libs: -L/home/parallels/Robot-Explorer/devel/lib 
+Requires: message_runtime std_msgs

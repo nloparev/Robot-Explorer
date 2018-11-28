@@ -1,0 +1,8 @@
+prefix=/home/parallels/Robot-Explorer/devel
+
+Name: hector_marker_drawing
+Description: Description of hector_marker_drawing
+Version: 0.3.5
+Cflags: -I/home/parallels/Robot-Explorer/src/hector_slam/hector_marker_drawing/include -I/usr/include/eigen3
+Libs: -L/home/parallels/Robot-Explorer/devel/lib 
+Requires: roscpp visualization_msgs

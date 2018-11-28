@@ -1,0 +1,8 @@
+prefix=/home/parallels/Robot-Explorer/devel
+
+Name: hector_slam_launch
+Description: Description of hector_slam_launch
+Version: 0.3.5
+Cflags: 
+Libs: -L/home/parallels/Robot-Explorer/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/parallels/Robot-Explorer/install
+
+Name: timestamp_tools
+Description: Description of timestamp_tools
+Version: 1.6.8
+Cflags: -I/home/parallels/Robot-Explorer/install/include
+Libs: -L/home/parallels/Robot-Explorer/install/lib 
+Requires: roslib roscpp

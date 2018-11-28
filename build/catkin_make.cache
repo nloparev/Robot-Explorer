@@ -1,0 +1,2 @@
+driver_common/driver_base:driver_common/driver_common:driver_common/timestamp_tools:my_rrt_launcher:rrt_exploration:rrt_exploration_tutorials:urg_node
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Robot-Explorer/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Robot-Explorer/install -G Unix Makefiles
