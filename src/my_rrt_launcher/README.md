@@ -1,6 +1,5 @@
-# spain_a3
-### Allen Spain
-### 11/15/2018
+### my_rrt_launcher
+### 11/28/2018
 Use [hector_slam](http://wiki.ros.org/hector_slam) for occupancy grid mappping using data collected using a [HOKUYO(URG-04LX-UG01)](https://www.hokuyo-aut.jp/search/single.php?serial=166) laser range finder Turtlebot. [Rapidly Exploring Random Tree RRT*   algorithm](http://paper.ijcsns.org/07_book/201610/20161004.pdf) was used for planning a path towards a goal determined by a service provider.
 
 ## Getting Started
